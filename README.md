@@ -8,13 +8,13 @@ Files:
 
   README.md 
   
-    - this file
+    this file
   github.sh
   
-    - git shell script
+    git shell script
   includes.h
   
-    - C includes
+    C includes
   main.c
   
-    - main code
+    main code
