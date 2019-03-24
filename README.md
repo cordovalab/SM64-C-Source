@@ -9,12 +9,15 @@ Files:
   README.md 
   
   this file
+  
   github.sh
   
   git shell script
+  
   includes.h
  
   C includes
+  
   main.c
   
   main code
