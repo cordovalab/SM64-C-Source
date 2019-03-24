@@ -6,18 +6,7 @@ Originally released 1996 on the Nintendo 64.
 
 Files:
 
-  README.md 
-  
-  this file
-  
-  github.sh
-  
-  git shell script
-  
-  includes.h
- 
-  C includes
-  
-  main.c
-  
-  main code
+  README.md  (this file)
+  github.sh (git shell script)
+  includes.h (C includes)
+  main.c (main code)
